@@ -1,0 +1,5 @@
+"Sprite"
+{
+	"$basetexture" "trails/golyb"
+	"$translucent" 1
+}
