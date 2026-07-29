@@ -1,6 +1,6 @@
 "Sprite"
 {
-	"$baseTexture" "sprites/trails/neverlose"
+	"$baseTexture" "trails/neverlose"
 	
 	"$additive" 0
 	"$vertexcolor" 1
